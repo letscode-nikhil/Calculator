@@ -1,2 +1,1 @@
-# FutureIntern_PD_01
-Calculator: Built using Tkinter, it performs standard arithmetic operations and includes special functions like modulus and square root.
+I built a calculator using Python and Tkinter. The project focused on creating an intuitive interface for basic math operations like addition, subtraction, multiplication, and division. Through this project, I highlighted my skills in Python programming and GUI development with Tkinter.
